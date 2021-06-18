@@ -1,0 +1,102 @@
+.App {
+  text-align: center;
+}
+
+.sale-start{
+	padding-left: 50px;
+	display:flex; flex-direction:row;
+}
+
+.sale-start-second{
+	margin-left:20px;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.account-info{
+	text-align:center;
+}
+
+.coin{
+	color: #1649c9;
+	
+}
+
+.saleName{
+	color:RED;
+}
+
+.sale-btn1{
+font-size:20px;
+	background-color: #385ceb;
+	border:none;
+	color:#fff;
+	height:40px;
+	width: 150px;
+	border-radius: 5px;
+}
+
+.sale-btn2{
+	margin-left:20px;
+	font-size:20px;
+	background-color: RED;
+	border:none;
+	color:#fff;
+	height:40px;
+	width: 150px;
+	border-radius: 5px;
+	
+}
+
+.presale-btn{
+	margin-left:20px;
+	font-size:20px;
+	background-color: #385ceb;
+	border:none;
+	color:#fff;
+	height:40px;
+	width: 150px;
+	border-radius: 5px;
+}
+
+.recharge-btn{
+	margin-left:20px;
+	font-size:20px;
+	background-color: #08bf48;
+	border:none;
+	color:#fff;
+	height:40px;
+	width: 150px;
+	border-radius: 5px;
+}
+.buy-btn{
+	margin-left:20px;
+	font-size:20px;
+	background-color: #ffe600;
+	border:none;
+	color:#000;
+	height:40px;
+	width: 150px;
+	border-radius: 5px;
+}
+
+.balance{
+	font-size:25px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
